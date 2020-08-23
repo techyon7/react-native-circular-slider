@@ -211,6 +211,7 @@ export default class CircularSlider extends PureComponent {
                 stopIcon
               }
             </G>
+          </G>
         </Svg>
       </View>
     );
